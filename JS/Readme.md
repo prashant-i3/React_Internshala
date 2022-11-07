@@ -1,17 +1,5 @@
-# var vs let vs const
+# var
 
-# array.map
+# let
 
-# array.reduce
-
-# function expression vs functions declaration
-
-# () => {} arrow function and (default = 'arguments')
-
-# `${string}` template and interpolation
-
-# {object} and [array] destructuring
-
-# ...rest and {...spread} operator
-
-# Async code: promises and async await
+# const
