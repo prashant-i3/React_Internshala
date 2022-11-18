@@ -4,7 +4,7 @@ import Square from './Square'
 const Board = () => {
   return (
     <div>
-        {/* Board will be 3*3 so three row */}
+        {/* Board will be 3*3 so three row i.e. div tag */}
         {/* And each row have 3 colum i.e buttons */}
 
         {/* Row 1 */}
