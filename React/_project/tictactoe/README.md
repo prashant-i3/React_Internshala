@@ -55,4 +55,4 @@ Use the following scripts for deployment:
 
 Then follow the normal procedure in GitHub Pages and select the `gh-pages` branch.
 
-# A component will always return the single element
+# ** A component will always return the single element
