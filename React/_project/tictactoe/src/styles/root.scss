@@ -9,7 +9,7 @@ body {
     background: none;
     border: none;
     outline: none;
-    &:hover {
+    &:hover { // &:hover means => button:hover 
       cursor: pointer;
     }
   }
